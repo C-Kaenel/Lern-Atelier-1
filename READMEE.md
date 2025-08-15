@@ -3,4 +3,5 @@
 ### Ziele
 1. Konto der BBB einrichten
 2. Github Konto erstellen
-3. Erster ILA Tag (Auf Moodle) durcharbeiten und verstehen 
+3. Erster ILA 1.Tag (Auf Moodle) durcharbeiten und verstehen 
+
