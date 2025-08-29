@@ -5,3 +5,11 @@
 2. Github Konto erstellen
 3. Erster ILA 1.Tag (Auf Moodle) durcharbeiten und verstehen 
 
+# Projekt
+## Grober Plan 
+ Ein Remote-Entwicklungs-Umgebung aufsetzen und die Programmiersprache Rust erlernen.
+## Feine Planung
+### 29.08.2025
+ Nacharbeit auf das neuste vorgegebene Ziel im Modul 431 
+ Rust downloaden
+ Rust Programing Book 1.2. bis 2 bearbeiten 
