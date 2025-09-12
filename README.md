@@ -13,3 +13,7 @@
 1. Nacharbeit auf das neuste vorgegebene Ziel im Modul 431 
 2. Rust downloaden
 3. Rust Programing Book 1.2. bis 2 bearbeiten 
+### 12.09.2025
+1. Arebiten an Modul 431 und Modul 319
+2. übungen machen auf coddy 
+3. Weiter arbeit in Rust 
