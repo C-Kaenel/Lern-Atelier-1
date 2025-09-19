@@ -17,3 +17,7 @@
 1. Arebiten an Modul 431 und Modul 319
 2. übungen machen auf coddy 
 3. Weiter arbeit in Rust 
+### 19.09.2025
+1. Lernen für Module
+2. Coddy Lernen
+3. Rust
