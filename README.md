@@ -7,7 +7,7 @@
 
 # Projekt
 ## Grober Plan 
-### Ein Remote-Entwicklungs-Umgebung aufsetzen und die Programmiersprache Rust erlernen.
+### Ein Linux-Entwicklungs-Umgebung aufsetzen und die Programmiersprache Rust erlernen.
 ## Feine Planung
 ### 29.08.2025
 1. Nacharbeit auf das neuste vorgegebene Ziel im Modul 431 
