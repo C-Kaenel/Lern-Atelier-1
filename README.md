@@ -1,6 +1,6 @@
 # Lern-Atelier-1
-## Tag 1.
 ### Ziele
+## Tag 1.
 1. Konto der BBB einrichten
 2. Github Konto erstellen
 3. Erster ILA 1.Tag (Auf Moodle) durcharbeiten und verstehen 
