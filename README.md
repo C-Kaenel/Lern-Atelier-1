@@ -22,6 +22,6 @@
 2. Coddy Lernen
 3. Rust
 ### 26.09.2025
-Lernen Für Geo Prüfung
-Arbeiten an Modul 431
-An Rust und C# Arebiten
+1. Lernen Für Geo Prüfung
+2. Arbeiten an Modul 431
+3. An Rust und C# Arebiten
