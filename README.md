@@ -25,3 +25,7 @@
 1. Lernen Für Geo Prüfung
 2. Arbeiten an Modul 431
 3. An Rust und C# Arebiten
+### 24.10.2025
+1. Lernen für modul 319
+2. Verbesserung von aufträgen im modul 431
+3. übungen für programiren 
