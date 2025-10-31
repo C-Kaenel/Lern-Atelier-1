@@ -28,4 +28,8 @@
 ### 24.10.2025
 1. Lernen für modul 319
 2. Verbesserung von aufträgen im modul 431
-3. übungen für programiren 
+3. übungen für programiren
+### 31.10.2025
+1. übungsblatt C#
+2. C# übungen
+3. An der Linux umgebung arbeiten 
