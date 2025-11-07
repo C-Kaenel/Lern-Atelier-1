@@ -32,4 +32,8 @@
 ### 31.10.2025
 1. übungsblatt C#
 2. C# übungen
-3. An der Linux umgebung arbeiten 
+3. An der Linux umgebung arbeiten
+### 07.11.2025
+1. Arbeit an Linux WSL
+2. Arbeit an neuen Rust Projekt
+3. Arbeit an Modul 162
