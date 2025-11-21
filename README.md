@@ -37,3 +37,7 @@
 1. Arbeit an Linux WSL
 2. Arbeit an neuen Rust Projekt
 3. Arbeit an Modul 162
+### 21.11.2025
+1. Projekte zur übung von SQL
+2. Projekte zur übung von Phyton
+3. C# übungen
