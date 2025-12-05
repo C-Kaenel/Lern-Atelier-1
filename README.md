@@ -10,7 +10,7 @@ Interessen entsprechen als auch einen Mehrwert für andere bieten.
 Die Arbeiten im Lernatelier werden nicht bewertet, was Raum für Kreativität, Experimentierfreude und praxisorientiertes Lernen schafft. Aus 
 diesem Umfeld sind bereits zahlreiche beeindruckende Projekte hervorgegangen — ein Beleg dafür, wie wirkungsvoll selbstbestimmtes Lernen sein 
 kann.
----
+
 ## Was kann man in diesem Reposetorie sehen und wo sind die Projekte?
 
 In diesem Repository dokumentiere ich alle meine Arbeiten im Rahmen des Lernateliers: welche Projekte ich verfolgt habe, wie ich meine Zeit 
