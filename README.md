@@ -41,3 +41,7 @@
 1. Projekte zur übung von SQL
 2. Projekte zur übung von Phyton
 3. C# übungen
+### 05.12.2025
+1. Arbeit an Github Profiel
+2. Witer arbeit auf NixOS und Rust
+3. üben für Modul 162
