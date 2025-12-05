@@ -1,5 +1,5 @@
-# Arbeitsplanung / Projektplanung 1-Semester
-## Ziele
+# **Arbeitsplanung / Projektplanung 1-Semester**
+## **Ziele**
 
 Mein Ziel für mein erstes Projekt ist es, eine Linux-Entwicklungsumgebung auf Basis von NixOS aufzusetzen und ästhetisch zu gestalten 
 (ricing). Damit möchte ich Erfahrungen im Linux-Management sammeln und lernen, effizient mit Entwicklungs-Workflows zu arbeiten.
@@ -8,7 +8,7 @@ Auf dieser neuen NixOS-Umgebung möchte ich anschließend hauptsächlich Rust, a
 entwickeln. Zusätzlich möchte ich einen Teil meiner Zeit in die Vorbereitung auf Prüfungen sowie in die allgemeine Verbesserung meiner 
 Programmierfähigkeiten investieren. 
 
-## Feine Planung
+## **Feine Planung**
 
 ### 29.08.2025
 1. Nacharbeit auf das neuste vorgegebene Ziel im Modul 431 

@@ -1,47 +1,19 @@
-# Lern-Atelier-1
-### Ziele
-## Tag 1.
-1. Konto der BBB einrichten
-2. Github Konto erstellen
-3. Erster ILA 1.Tag (Auf Moodle) durcharbeiten und verstehen 
+# **Das Lernateliere BBB**
+## Was ist das Lernateliere?
+Das Lernatelier umfasst fünf wöchentliche Schullektionen, die vollständig der freien Projektarbeit gewidmet sind. In dieser Zeit habe ich die 
+Möglichkeit, eigene Software- und Programmierprojekte zu planen, umzusetzen und weiterzuentwickeln. Die Arbeitszeit ist vollständig 
+selbstorganisiert, wodurch ich Verantwortung für meine Lernprozesse übernehme und Projekte verfolgen kann, die sowohl meinen persönlichen 
+Interessen entsprechen als auch einen Mehrwert für andere bieten.
 
-# Projekt
-## Grober Plan 
-### Ein Linux-Entwicklungs-Umgebung aufsetzen und die Programmiersprache Rust erlernen.
-## Feine Planung
-### 29.08.2025
-1. Nacharbeit auf das neuste vorgegebene Ziel im Modul 431 
-2. Rust downloaden
-3. Rust Programing Book 1.2. bis 2 bearbeiten 
-### 12.09.2025
-1. Arebiten an Modul 431 und Modul 319
-2. übungen machen auf coddy 
-3. Weiter arbeit in Rust 
-### 19.09.2025
-1. Lernen für Module
-2. Coddy Lernen
-3. Rust
-### 26.09.2025
-1. Lernen Für Geo Prüfung
-2. Arbeiten an Modul 431
-3. An Rust und C# Arebiten
-### 24.10.2025
-1. Lernen für modul 319
-2. Verbesserung von aufträgen im modul 431
-3. übungen für programiren
-### 31.10.2025
-1. übungsblatt C#
-2. C# übungen
-3. An der Linux umgebung arbeiten
-### 07.11.2025
-1. Arbeit an Linux WSL
-2. Arbeit an neuen Rust Projekt
-3. Arbeit an Modul 162
-### 21.11.2025
-1. Projekte zur übung von SQL
-2. Projekte zur übung von Phyton
-3. C# übungen
-### 05.12.2025
-1. Arbeit an Github Profiel
-2. Witer arbeit auf NixOS und Rust
-3. üben für Modul 162
+Die Arbeiten im Lernatelier werden nicht bewertet, was Raum für Kreativität, Experimentierfreude und praxisorientiertes Lernen schafft. Aus 
+diesem Umfeld sind bereits zahlreiche beeindruckende Projekte hervorgegangen — ein Beleg dafür, wie wirkungsvoll selbstbestimmtes Lernen sein 
+kann.
+## Was kann man in diesem Reposetorie sehen und wo sind die Projekte?
+In diesem Repository dokumentiere ich alle meine Arbeiten im Rahmen des Lernateliers: welche Projekte ich verfolgt habe, wie ich meine Zeit 
+eingeteilt habe, welche Schritte ich abgeschlossen habe, was ich rückblickend anders machen würde und wie ich mich im Verlauf weiterentwickelt 
+habe.
+
+Es handelt sich dabei um eine umfassende Arbeits- und Lern­dokumentation meiner Projekte und meines persönlichen Fortschritts.
+
+Die eigentlichen Softwareprojekte — also jene, die fertiggestellt wurden oder sich in einem fortgeschrittenen Entwicklungsstadium befinden — 
+befinden sich nicht in diesem Repository. Stattdessen erhalten diese Projekte jeweils ein eigenes, dediziertes Repository.
