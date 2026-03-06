@@ -9,4 +9,9 @@ Geplantes Projekt ausführen und zu verwendbarem Status bringen. Verschiedene Pr
 ### 27.02.2026
 1. SQL Dtatabase erstellen
 2. Testen der SQL Database
-3. Nach weg für Integration suchen  
+3. Nach weg für Integration suchen
+### 06.03.2026
+1. Arebiten Programieren
+2. Lernen Programieren
+3. Projekt Programieren
+
