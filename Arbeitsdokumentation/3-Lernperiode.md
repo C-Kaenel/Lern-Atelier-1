@@ -15,4 +15,11 @@ Geplantes Projekt ausführen und zu verwendbarem Status bringen. Verschiedene Pr
 2. Lernen Programieren
 3. Projekt Programieren
 ## Grobplanung 2
-
+Nach grossen überlegungen wurde entschieden das ich mein bisheriges projekt auf pause setzten sollte und 
+schtatdessen mich auf mehr unmittelbare ziele und einen grösseren Lerneffekt mich zu konzentrieren. Ziele 
+sind in der Feinplanung zu lesen.
+## Feinplanung 2
+### 13.03.2026
+1. Erledigen der verpasten Tage
+2. Swifti tutorial
+3. Zahlen-Ratespiel in swift
