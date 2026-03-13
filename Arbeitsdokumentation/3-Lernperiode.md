@@ -23,3 +23,4 @@ sind in der Feinplanung zu lesen.
 1. Erledigen der verpasten Tage
 2. Swifti tutorial
 3. Zahlen-Ratespiel in swift
+4. C tutorial
