@@ -23,4 +23,8 @@ sind in der Feinplanung zu lesen.
 1. Erledigen der verpasten Tage
 2. Swifti tutorial
 3. Zahlen-Ratespiel in swift
-4. C tutorial
+4. JS tutorial
+### 20.03.2026
+1. Modul 106
+2. JavaScript Anfang
+3. Vertifungs mini Projekt 
