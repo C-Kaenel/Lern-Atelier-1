@@ -32,3 +32,5 @@ sind in der Feinplanung zu lesen.
 1. Mit Quizes JavaScript üben
 2. Eine Miniprojekt (Farbgenerator)
 3. Leetcode Profiel vieleicht
+# Lernperiode 3 Reflektion 
+Es ging sehr gut ich habe of alle meine Zeiel erfült und sogar überschossen und noch zeit für erweiterte Aufgaben gehabt.
