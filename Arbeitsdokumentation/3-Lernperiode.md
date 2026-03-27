@@ -28,3 +28,7 @@ sind in der Feinplanung zu lesen.
 1. Modul 106
 2. JavaScript Anfang
 3. Vertifungs mini Projekt 
+### 27.07.2026
+1. Mit Quizes JavaScript üben
+2. Eine Miniprojekt (Farbgenerator)
+3. Leetcode Profiel vieleicht
