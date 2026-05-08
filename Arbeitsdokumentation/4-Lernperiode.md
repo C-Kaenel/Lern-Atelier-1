@@ -11,3 +11,8 @@ Progrmaier Können verbessern.
 1. Development tool Implementation
 2. Github Commits boosten für Hihering
 3. Rust Lernen erweitert und Programieren Verbessern 
+## Feinplanung
+### 15.05.2026
+1. Rust Witer übung
+2. OS development
+3. SSH VPN App development start
