@@ -16,3 +16,8 @@ Progrmaier Können verbessern.
 1. Rust Witer übung
 2. OS development
 3. SSH VPN App development start
+Sehr gut gearbeite alle zeile erfüllt
+### 22.05.2026
+1. Weiter an Projekt
+2. Weiter besser Developen rust
+3. Projekt erstellt Lernblatte erstellt und für prüfung und ander Module gelernt
