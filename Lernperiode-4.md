@@ -1,8 +1,5 @@
 # Lern-Periode 4
 
-- Name: Anthony Kaenel
-- Zeitraum: 24.04.2026 bis 26.06.2026
-
 ## Grob-Planung
 
 ### Noten
