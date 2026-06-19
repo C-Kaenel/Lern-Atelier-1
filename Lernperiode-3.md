@@ -1,9 +1,9 @@
 # Lern-Periode 3
 
-- Name: Anthony Kaenel
-- Zeitraum: 20.02.2026 bis 17.04.2026
 
 ## Grob-Planung
+
+Super
 
 ### Noten
 
