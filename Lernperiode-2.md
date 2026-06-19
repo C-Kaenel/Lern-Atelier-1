@@ -1,9 +1,8 @@
 # Lern-Periode 2
 
-- Name: Anthony Kaenel
-- Zeitraum: 09.01.2026 bis 13.02.2026
-
 ## Grob-Planung
+
+Super
 
 ### Noten
 
