@@ -1,7 +1,5 @@
 # Lern-Periode 1
 
-- Name: Anthony Kaenel
-- Zeitraum: 29.08.2025 bis 19.12.2025
 
 ## Grob-Planung
 
