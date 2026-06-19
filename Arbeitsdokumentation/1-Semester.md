@@ -6,7 +6,7 @@ Mein Ziel für mein erstes Projekt ist es, eine Linux-Entwicklungsumgebung auf B
 
 Auf dieser neuen NixOS-Umgebung möchte ich anschließend hauptsächlich Rust, aber auch andere Programmiersprachen lernen und eigene Projekte 
 entwickeln. Zusätzlich möchte ich einen Teil meiner Zeit in die Vorbereitung auf Prüfungen sowie in die allgemeine Verbesserung meiner 
-Programmierfähigkeiten investieren. 
+Programmierfähigkeiten investieren. a
 
 ## **Feine Planung**
 
