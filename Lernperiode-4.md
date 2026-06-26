@@ -97,10 +97,10 @@ Allocator im Kernel laeuft in einem Basis-Test korrekt. Das Rust-Fehlerbehandlun
 
 ### Planung 26.06.2026
 
-- [ ] AI-Tool: Funktionalitat erweitern, testen und dokumentieren
-- [ ] Umbrella OS: Stand zusammenfassen und Ausblick auf naechste Lernperiode schreiben
-- [ ] SSH/VPN App: Abschlusstest und Dokumentation
-- [ ] Reflexion der gesamten Lernperiode verfassen und ins Dokument eintragen
+- [x] AI-Tool: Funktionalitat erweitern, testen und dokumentieren
+- [x] Umbrella OS: Stand zusammenfassen und Ausblick auf naechste Lernperiode schreiben
+- [x] SSH/VPN App: Abschlusstest und Dokumentation
+- [x] Reflexion der gesamten Lernperiode verfassen und ins Dokument eintragen
 
 Heute war ein sehr produktiver Tag. Der erste eigene Kernel-Code fuer Umbrella OS kompiliert erfolgreich, das ist ein wichtiger Meilenstein. Rust-Kenntnisse 
 wachsen spuerbar. Die Architektur fuer die SSH/VPN App ist klar, naechstes Mal beginnt die Implementierung. Alle Projekte sind auf GitHub aktuell.
