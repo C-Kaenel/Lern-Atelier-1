@@ -91,6 +91,10 @@ Heute habe ich die Anthropic API erfolgreich eingebunden. Das Werkzeug zur autom
 - [x] Umbrella OS: Dateisystem-Grundstruktur entwerfen und ersten Code schreiben
 - [x] SSH/VPN App: Verschluesselungslogik mit einem etablierten Rust-Crate ausbauen
 
+
+Heute habe ich die SSH-App in Rust gestartet. Netzwerkprogrammierung in Rust ist maechtig, aber die Typsicherheit hilft, Fehler frueh zu finden. Der Heap-
+Allocator im Kernel laeuft in einem Basis-Test korrekt. Das Rust-Fehlerbehandlungssystem mit Result ist elegant und sicherer als Exceptions.
+
 ### Planung 26.06.2026
 
 - [ ] AI-Tool: Funktionalitat erweitern, testen und dokumentieren
@@ -98,7 +102,9 @@ Heute habe ich die Anthropic API erfolgreich eingebunden. Das Werkzeug zur autom
 - [ ] SSH/VPN App: Abschlusstest und Dokumentation
 - [ ] Reflexion der gesamten Lernperiode verfassen und ins Dokument eintragen
 
-## Lernperiode Reflexion
-
 Heute war ein sehr produktiver Tag. Der erste eigene Kernel-Code fuer Umbrella OS kompiliert erfolgreich, das ist ein wichtiger Meilenstein. Rust-Kenntnisse 
 wachsen spuerbar. Die Architektur fuer die SSH/VPN App ist klar, naechstes Mal beginnt die Implementierung. Alle Projekte sind auf GitHub aktuell.
+
+## Lernperiode Reflexion
+
+Extrem Produktiv und viele mal konzequenter und besser gearbeitet als beim letzten male. Alle Ziele ereicht und viel Neues gelernt 
