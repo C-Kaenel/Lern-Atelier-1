@@ -1,10 +1,7 @@
 # Lern-Periode 3
 
-<<<<<<< HEAD
-=======
 - Name: C-Kaenel
 - Zeitraum: 20.02.2026 bis 17.04.2026
->>>>>>> e90a95e (Fix name, Veraenderungen heading in all Lernperioden)
 
 ## Grob-Planung
 
