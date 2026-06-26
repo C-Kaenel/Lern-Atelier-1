@@ -1,5 +1,10 @@
 # Lern-Periode 3
 
+<<<<<<< HEAD
+=======
+- Name: C-Kaenel
+- Zeitraum: 20.02.2026 bis 17.04.2026
+>>>>>>> e90a95e (Fix name, Veraenderungen heading in all Lernperioden)
 
 ## Grob-Planung
 
@@ -9,7 +14,7 @@ Super
 
 Das zweite Semester laeuft gut. In Programmierung und Systemtechnik bin ich weiterhin stark. Modul 106 laeuft parallel und ist im Plan. Mathematik und Englisch haben sich leicht verbessert. Insgesamt ist die Notensituation stabil und gibt mir genuegend Spielraum, im Lernatelier eigene Projekte voranzutreiben.
 
-### Veranderungen
+### Veränderungen
 
 Nach der Reflexion der letzten Lernperiode habe ich entschieden, groessere Projekte fruehzeitiger zu evaluieren und nicht zu lange an einem Ansatz festzuhalten, der keinen guten Lerneffekt bringt. Wenn sich zeigt, dass ein Projekt in eine Sackgasse fuehrt, wechsle ich bewusst auf Alternativen mit mehr unmittelbarem Mehrwert.
 

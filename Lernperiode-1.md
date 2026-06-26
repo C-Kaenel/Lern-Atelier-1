@@ -1,5 +1,10 @@
 # Lern-Periode 1
 
+<<<<<<< HEAD
+=======
+- Name: C-Kaenel
+- Zeitraum: 29.08.2025 bis 19.12.2025
+>>>>>>> e90a95e (Fix name, Veraenderungen heading in all Lernperioden)
 
 ## Grob-Planung
 
@@ -7,7 +12,7 @@
 
 In den meisten Modulen befinde ich mich im guten Bereich. Besonders stark bin ich in Programmierung und Systemtechnik. In Mathematik und Englisch gibt es noch Luft nach oben, aber keine kritischen Defizite. Insgesamt bin ich mit meinem Notenstand zum Start dieser Lernperiode zufrieden und mochte ihn gezielt verbessern.
 
-### Veranderungen
+### Veränderungen
 
 Dies ist meine erste Lernperiode im Lernatelier. Ich mochte von Anfang an strukturiert arbeiten, klare Tagesziele setzen und jeden Halbtag mit einem kurzen Rueckblick abschliessen. Ausserdem mochte ich mehr Eigeninitiative zeigen und nicht nur Schulaufgaben abarbeiten, sondern eigene Projekte vorantreiben.
 

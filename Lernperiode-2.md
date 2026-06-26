@@ -1,5 +1,11 @@
 # Lern-Periode 2
 
+<<<<<<< HEAD
+=======
+- Name: C-Kaenel
+- Zeitraum: 09.01.2026 bis 13.02.2026
+
+>>>>>>> e90a95e (Fix name, Veraenderungen heading in all Lernperioden)
 ## Grob-Planung
 
 Super
@@ -8,7 +14,7 @@ Super
 
 Das erste Semester ist gut gelaufen. In Programmierung und Systemtechnik liege ich im sehr guten Bereich. Modul 162 (Datenbanken) und Modul 319 sind beide positiv abgeschlossen. In Englisch und Mathematik gibt es noch Potenzial, das ich aktiv angehen mochte. Insgesamt bin ich mit dem Ergebnis des ersten Semesters zufrieden.
 
-### Veranderungen
+### Veränderungen
 
 Im Vergleich zum ersten Semester mochte ich weniger Zeit mit reinen Schulaufgaben verbringen und mehr eigene Projekte umsetzen. Ich habe gemerkt, dass ich beim Bauen von echten Dingen am meisten lerne. Ausserdem mochte ich konsequenter dokumentieren und jeden Arbeitstag mit einem Eintrag abschliessen.
 

@@ -1,12 +1,18 @@
 # Lern-Periode 4
 
+<<<<<<< HEAD
+=======
+- Name: C-Kaenel
+- Zeitraum: 24.04.2026 bis 26.06.2026
+
+>>>>>>> e90a95e (Fix name, Veraenderungen heading in all Lernperioden)
 ## Grob-Planung
 
 ### Noten
 
 In den meisten Modulen liege ich im guten bis sehr guten Bereich. Besonders stark bin ich in Programmierung und Systemarchitektur. In theoretischen Fachern wie Mathematik besteht noch etwas Verbesserungspotenzial, diese sind aber nicht kritisch. Insgesamt bin ich mit meinen Noten zufrieden und mochte den Stand halten.
 
-### Veranderungen
+### Veränderungen
 
 Im Vergleich zur letzten Lernperiode mochte ich meine Tagesplanung konsequenter einhalten und realistische, klar messbare Arbeitspakete formulieren. Ausserdem lege ich mehr Wert auf Dokumentation: jeder Arbeitstag soll mit einem kurzen Tageseintrag abgeschlossen werden, damit Fortschritte und Probleme nachvollziehbar bleiben.
 
