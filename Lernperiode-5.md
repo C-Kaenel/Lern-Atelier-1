@@ -40,4 +40,4 @@ In dieser Lernperiode konzentriere ich mich auf:
 
 ## Lernperiode Reflexion
 
-(Wird am Ende der Lernperiode ausgefuellt.)
+(Wird am Ende der Lernperiode ausgefuellt.) (This is very important)
