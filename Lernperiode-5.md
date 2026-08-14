@@ -7,11 +7,11 @@
 
 ### Noten
 
-Die letzte Lernperiode ist gut abgeschlossen. In Programmierung und Systemtechnik bin ich weiterhin stark. Ich mochte in dieser Periode besonders die theoretischen Module nicht vernachlassigen und den Fokus auf praxisnahe Webentwicklung und Backend-Kenntnisse legen, die sich direkt auf Modulinhalte anwenden lassen.
+Die letzte Lernperiode ist gut abgeschlossen. In Programmierung und Systemtechnik bin ich weiterhin stark. Ich möchte in dieser Periode besonders die theoretischen Module nicht vernachlässigen und den Fokus auf praxisnahe Webentwicklung und Backend-Kenntnisse legen, die sich direkt auf Modulinhalte anwenden lassen.
 
 ### Veränderungen
 
-Im Vergleich zur letzten Lernperiode mochte ich weniger auf Systemnahe Programmierung (OS, Kernel) und mehr auf anwendungsorientierte Entwicklung setzen. APIs und Webentwicklung sind Fahigkeiten die ich in fast jedem Projekt einsetzen kann. Ausserdem mochte ich von Anfang an mehr mit echten Tools wie Postman, Swagger und Datenbanken arbeiten statt nur Konzepte zu lernen.
+Im Vergleich zur letzten Lernperiode möchte ich weniger auf Systemnahe Programmierung (OS, Kernel) und mehr auf anwendungsorientierte Entwicklung setzen. APIs und Webentwicklung sind Fähigkeiten die ich in fast jedem Projekt einsetzen kann. Ausserdem möchte ich von Anfang an mehr mit echten Tools wie Postman, Swagger und Datenbanken arbeiten statt nur Konzepte zu lernen.
 
 ### Projekte / neue Technologien
 
