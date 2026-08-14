@@ -33,9 +33,9 @@ In dieser Lernperiode konzentriere ich mich auf:
 
 ### Planung 14.08.2026
 
-- [ ] Recherche: Was ist eine API, was ist REST, welche HTTP-Methoden gibt es (GET, POST, PUT, DELETE)
-- [ ] Erste einfache REST-API lokal aufsetzen (Node.js mit Express oder Python mit FastAPI)
-- [ ] Mindestens 3 Endpunkte implementieren und mit curl oder Postman testen
+- [x] Recherche: Was ist eine API, was ist REST, welche HTTP-Methoden gibt es (GET, POST, PUT, DELETE)
+- [x] Erste einfache REST-API lokal aufsetzen (Node.js mit Express oder Python mit FastAPI)
+- [x] Mindestens 3 Endpunkte implementieren und mit curl oder Postman testen
 - [ ] Grundlagen von JSON als Datenaustauschformat verstehen und anwenden
 
 ## Lernperiode Reflexion
