@@ -38,6 +38,7 @@ In dieser Lernperiode konzentriere ich mich auf:
 - [x] Mindestens 3 Endpunkte implementieren und mit curl oder Postman testen
 - [x] Grundlagen von JSON als Datenaustauschformat verstehen und anwenden
 
+### Reflexion 14.08.026
 Heute habe ich die Grundlagen von REST-APIs erarbeitet. FastAPI in Python ist schnell eingerichtet und die automatische Swagger-Dokumentation ist sehr hilfreich. Die ersten drei Endpunkte laufen und ich kann sie mit Postman testen. JSON als Datenaustauschformat ist intuitiv und macht sofort Sinn.
 
 ### Planung 21.08.2026
@@ -51,6 +52,7 @@ Heute habe ich die Grundlagen von REST-APIs erarbeitet. FastAPI in Python ist sc
 - [x] Erste API auf einer lokalen Linux-VM oder WSL deployen und von aussen erreichbar machen
 - [x] Zwei verschiedene Programme über eine selbst gebaute API miteinander kommunizieren lassen
 
+### Reflexion 28.08.2026
 Ich habe gut gearbeitet
 
 ### Planung 04.09.2026
