@@ -11,22 +11,22 @@ Die letzte Lernperiode ist gut abgeschlossen. In Programmierung und Systemtechni
 
 ### Veränderungen
 
-Im Vergleich zur letzten Lernperiode möchte ich weniger auf Systemnahe Programmierung (OS, Kernel) und mehr auf anwendungsorientierte Entwicklung setzen. APIs und Webentwicklung sind Fähigkeiten die ich in fast jedem Projekt einsetzen kann. Ausserdem möchte ich von Anfang an mehr mit echten Tools wie Postman, Swagger und Datenbanken arbeiten statt nur Konzepte zu lernen.
+Im Vergleich zur letzten Lernperiode möchte ich weniger auf systemnahe Programmierung (OS, Kernel) und mehr auf anwendungsorientierte Entwicklung setzen. APIs und Webentwicklung sind Fähigkeiten die ich in fast jedem Projekt einsetzen kann. Ausserdem möchte ich von Anfang an mehr mit echten Tools wie Postman, Swagger und Datenbanken arbeiten statt nur Konzepte zu lernen.
 
 ### Projekte / neue Technologien
 
 In dieser Lernperiode konzentriere ich mich auf:
-- REST-APIs: Grundlagen, Aufbau, Endpunkte, HTTP-Methoden
-- Backend-Entwicklung: Server mit Node.js/Express oder Python/FastAPI aufsetzen
-- Web Development: HTML, CSS und JavaScript vertiefen und mit einem Backend verbinden
-- Datenbankanbindung: API mit einer Datenbank (SQLite oder PostgreSQL) koppeln
-- Deployment: Einfache API auf einem Server oder Cloud-Dienst deployen
+- Programme miteinander verbinden: APIs als Schnittstelle zwischen verschiedenen Systemen und Sprachen einsetzen
+- API-Implementierung in verschiedenen Sprachen: Python, Node.js und weitere Ansätze vergleichen
+- Produktions-Linux-Umgebung: APIs auf einem echten Linux-Server deployen und betreiben
+- Interoperabilität: verstehen wie verschiedene Programme, Dienste und Sprachen über APIs kommunizieren
+- Deployment und Betrieb: Prozessmanagement, Logging und Monitoring auf Linux
 
 ### Generelle Ziele
 
-- Eine vollstandige REST-API von Grund auf selbst implementieren
-- Frontend mit eigenem Backend verbinden und Daten austauschen
-- Deployment einer eigenen Web-App abschliessen
+- Dieselbe API in mindestens zwei verschiedenen Programmiersprachen implementieren und vergleichen
+- Eine API in einer echten Linux-Produktionsumgebung deployen und zum Laufen bringen
+- Verstehen wie verschiedene Programme über APIs miteinander kommunizieren
 - Alle Lernatelier-Tage mit klaren Arbeitspaketen dokumentieren
 
 ## Tagesplanungen
@@ -36,8 +36,17 @@ In dieser Lernperiode konzentriere ich mich auf:
 - [x] Recherche: Was ist eine API, was ist REST, welche HTTP-Methoden gibt es (GET, POST, PUT, DELETE)
 - [x] Erste einfache REST-API lokal aufsetzen (Node.js mit Express oder Python mit FastAPI)
 - [x] Mindestens 3 Endpunkte implementieren und mit curl oder Postman testen
-- [ ] Grundlagen von JSON als Datenaustauschformat verstehen und anwenden
+- [x] Grundlagen von JSON als Datenaustauschformat verstehen und anwenden
+
+Heute habe ich die Grundlagen von REST-APIs erarbeitet. FastAPI in Python ist schnell eingerichtet und die automatische Swagger-Dokumentation ist sehr hilfreich. Die ersten drei Endpunkte laufen und ich kann sie mit Postman testen. JSON als Datenaustauschformat ist intuitiv und macht sofort Sinn.
+
+### Planung 28.08.2026
+
+- [ ] API-Implementierung in Python (FastAPI) und Node.js (Express) oder Golange vergleichen: dieselben Endpunkte in beiden Sprachen bauen
+- [ ] Recherche: Wie funktioniert eine Linux-Produktionsumgebung, was braucht man (nginx, systemd, Prozessmanagement)
+- [ ] Erste API auf einer lokalen Linux-VM oder WSL deployen und von aussen erreichbar machen
+- [ ] Zwei verschiedene Programme über eine selbst gebaute API miteinander kommunizieren lassen
 
 ## Lernperiode Reflexion
 
-(Wird am Ende der Lernperiode ausgefuellt.) (This is very important)
+(Wird am Ende der Lernperiode ausgefüllt.)
