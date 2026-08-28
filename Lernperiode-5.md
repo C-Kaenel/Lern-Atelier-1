@@ -42,10 +42,10 @@ Heute habe ich die Grundlagen von REST-APIs erarbeitet. FastAPI in Python ist sc
 
 ### Planung 28.08.2026
 
-- [ ] API-Implementierung in Python (FastAPI) und Node.js (Express) oder Golange vergleichen: dieselben Endpunkte in beiden Sprachen bauen
-- [ ] Recherche: Wie funktioniert eine Linux-Produktionsumgebung, was braucht man (nginx, systemd, Prozessmanagement)
-- [ ] Erste API auf einer lokalen Linux-VM oder WSL deployen und von aussen erreichbar machen
-- [ ] Zwei verschiedene Programme über eine selbst gebaute API miteinander kommunizieren lassen
+- [x] API-Implementierung in Python (FastAPI) und Node.js (Express) oder Golange vergleichen: dieselben Endpunkte in beiden Sprachen bauen
+- [x] Recherche: Wie funktioniert eine Linux-Produktionsumgebung, was braucht man (nginx, systemd, Prozessmanagement)
+- [x] Erste API auf einer lokalen Linux-VM oder WSL deployen und von aussen erreichbar machen
+- [x] Zwei verschiedene Programme über eine selbst gebaute API miteinander kommunizieren lassen
 
 ## Lernperiode Reflexion
 
