@@ -40,12 +40,18 @@ In dieser Lernperiode konzentriere ich mich auf:
 
 Heute habe ich die Grundlagen von REST-APIs erarbeitet. FastAPI in Python ist schnell eingerichtet und die automatische Swagger-Dokumentation ist sehr hilfreich. Die ersten drei Endpunkte laufen und ich kann sie mit Postman testen. JSON als Datenaustauschformat ist intuitiv und macht sofort Sinn.
 
+### Planung 21.08.2026
+
+- Abwesend
+
 ### Planung 28.08.2026
 
 - [x] API-Implementierung in Python (FastAPI) und Node.js (Express) oder Golange vergleichen: dieselben Endpunkte in beiden Sprachen bauen
 - [x] Recherche: Wie funktioniert eine Linux-Produktionsumgebung, was braucht man (nginx, systemd, Prozessmanagement)
 - [x] Erste API auf einer lokalen Linux-VM oder WSL deployen und von aussen erreichbar machen
 - [x] Zwei verschiedene Programme über eine selbst gebaute API miteinander kommunizieren lassen
+
+Ich habe gut gearbeitet
 
 ## Lernperiode Reflexion
 
