@@ -55,10 +55,10 @@ Ich habe gut gearbeitet
 
 ### Planung 04.09.2026
 
-- [x] API-Implementierung in Python (FastAPI) und Node.js (Express) oder Golange vergleichen: dieselben Endpunkte in beiden Sprachen bauen
-- [x] Recherche: Wie funktioniert eine Linux-Produktionsumgebung, was braucht man (nginx, systemd, Prozessmanagement)
-- [x] Erste API auf einer lokalen Linux-VM oder WSL deployen und von aussen erreichbar machen
-- [x] Zwei verschiedene Programme über eine selbst gebaute API miteinander kommunizieren lassen
+- [ ] API-Implementierung in Python (FastAPI) und Node.js (Express) oder Golange vergleichen: dieselben Endpunkte in beiden Sprachen bauen
+- [ ] Recherche: Wie funktioniert eine Linux-Produktionsumgebung, was braucht man (nginx, systemd, Prozessmanagement)
+- [ ] Erste API auf einer lokalen Linux-VM oder WSL deployen und von aussen erreichbar machen
+- [ ] Zwei verschiedene Programme über eine selbst gebaute API miteinander kommunizieren lassen
 
 ## Lernperiode Reflexion
 
