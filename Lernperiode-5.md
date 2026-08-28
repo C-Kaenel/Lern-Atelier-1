@@ -43,7 +43,7 @@ Heute habe ich die Grundlagen von REST-APIs erarbeitet. FastAPI in Python ist sc
 
 ### Planung 21.08.2026
 
-- Abwesend
+- Absenz
 
 ### Planung 28.08.2026
 
