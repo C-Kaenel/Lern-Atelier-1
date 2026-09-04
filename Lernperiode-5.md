@@ -62,6 +62,14 @@ Ich habe gut gearbeitet und grosse Fortschritte gemacht. Der Vergleich zwischen 
 
 Alles würde Erflüllt vieles lehrreiches wurde gelernt und alle Ziele bestnden.
 
+### Planung 11.09.2026
+
+- [x] Bisherige API-Kenntnisse wiederholen: REST-Konzepte, HTTP-Methoden und JSON-Struktur festigen
+- [x] Spezialisierte Fälle anschauen: Authentication (API Keys, JWT), Rate Limiting und Fehlerbehandlung
+- [x] Externe Produktions-APIs untersuchen: GitHub API, OpenWeather API oder Stripe API analysieren und ansprechen
+- [x] Eigene API um einen spezialisierten Endpunkt erweitern basierend auf dem Gelernten
+
+
 ## Lernperiode Reflexion
 
 (Wird am Ende der Lernperiode ausgefüllt.)
