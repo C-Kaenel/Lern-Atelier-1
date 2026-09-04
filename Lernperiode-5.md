@@ -38,7 +38,6 @@ In dieser Lernperiode konzentriere ich mich auf:
 - [x] Mindestens 3 Endpunkte implementieren und mit curl oder Postman testen
 - [x] Grundlagen von JSON als Datenaustauschformat verstehen und anwenden
 
-### Reflexion 14.08.026
 Heute habe ich die Grundlagen von REST-APIs erarbeitet. FastAPI in Python ist schnell eingerichtet und die automatische Swagger-Dokumentation ist sehr hilfreich. Die ersten drei Endpunkte laufen und ich kann sie mit Postman testen. JSON als Datenaustauschformat ist intuitiv und macht sofort Sinn.
 
 ### Planung 21.08.2026
@@ -47,20 +46,19 @@ Abwesend
 
 ### Planung 28.08.2026
 
-- [x] API-Implementierung in Python (FastAPI) und Node.js (Express) oder Golange vergleichen: dieselben Endpunkte in beiden Sprachen bauen
+- [x] API-Implementierung in Python (FastAPI) und Node.js (Express) oder Go vergleichen: dieselben Endpunkte in beiden Sprachen bauen
 - [x] Recherche: Wie funktioniert eine Linux-Produktionsumgebung, was braucht man (nginx, systemd, Prozessmanagement)
 - [x] Erste API auf einer lokalen Linux-VM oder WSL deployen und von aussen erreichbar machen
 - [x] Zwei verschiedene Programme über eine selbst gebaute API miteinander kommunizieren lassen
 
-### Reflexion 28.08.2026
-Ich habe gut gearbeitet
+Ich habe gut gearbeitet und grosse Fortschritte gemacht. Der Vergleich zwischen Python und Node.js zeigt klar die Unterschiede in Syntax und Performance. Die API läuft auf WSL und ist von aussen erreichbar.
 
 ### Planung 04.09.2026
 
-- [ ] API-Implementierung in Python (FastAPI) und Node.js (Express) oder Golange vergleichen: dieselben Endpunkte in beiden Sprachen bauen
-- [ ] Recherche: Wie funktioniert eine Linux-Produktionsumgebung, was braucht man (nginx, systemd, Prozessmanagement)
-- [ ] Erste API auf einer lokalen Linux-VM oder WSL deployen und von aussen erreichbar machen
-- [ ] Zwei verschiedene Programme über eine selbst gebaute API miteinander kommunizieren lassen
+- [ ] Bisherige API-Kenntnisse wiederholen: REST-Konzepte, HTTP-Methoden und JSON-Struktur festigen
+- [ ] Spezialisierte Fälle anschauen: Authentication (API Keys, JWT), Rate Limiting und Fehlerbehandlung
+- [ ] Externe Produktions-APIs untersuchen: GitHub API, OpenWeather API oder Stripe API analysieren und ansprechen
+- [ ] Eigene API um einen spezialisierten Endpunkt erweitern basierend auf dem Gelernten
 
 ## Lernperiode Reflexion
 
