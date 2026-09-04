@@ -55,10 +55,12 @@ Ich habe gut gearbeitet und grosse Fortschritte gemacht. Der Vergleich zwischen 
 
 ### Planung 04.09.2026
 
-- [ ] Bisherige API-Kenntnisse wiederholen: REST-Konzepte, HTTP-Methoden und JSON-Struktur festigen
-- [ ] Spezialisierte Fälle anschauen: Authentication (API Keys, JWT), Rate Limiting und Fehlerbehandlung
-- [ ] Externe Produktions-APIs untersuchen: GitHub API, OpenWeather API oder Stripe API analysieren und ansprechen
-- [ ] Eigene API um einen spezialisierten Endpunkt erweitern basierend auf dem Gelernten
+- [x] Bisherige API-Kenntnisse wiederholen: REST-Konzepte, HTTP-Methoden und JSON-Struktur festigen
+- [x] Spezialisierte Fälle anschauen: Authentication (API Keys, JWT), Rate Limiting und Fehlerbehandlung
+- [x] Externe Produktions-APIs untersuchen: GitHub API, OpenWeather API oder Stripe API analysieren und ansprechen
+- [x] Eigene API um einen spezialisierten Endpunkt erweitern basierend auf dem Gelernten
+
+Alles würde Erflüllt vieles lehrreiches wurde gelernt und alle Ziele bestnden.
 
 ## Lernperiode Reflexion
 
