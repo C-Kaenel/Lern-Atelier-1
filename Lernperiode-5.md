@@ -64,10 +64,10 @@ Alles würde Erflüllt vieles lehrreiches wurde gelernt und alle Ziele bestnden.
 
 ### Planung 11.09.2026
 
-- [x] Bisherige API-Kenntnisse wiederholen: REST-Konzepte, HTTP-Methoden und JSON-Struktur festigen
-- [x] Spezialisierte Fälle anschauen: Authentication (API Keys, JWT), Rate Limiting und Fehlerbehandlung
-- [x] Externe Produktions-APIs untersuchen: GitHub API, OpenWeather API oder Stripe API analysieren und ansprechen
-- [x] Eigene API um einen spezialisierten Endpunkt erweitern basierend auf dem Gelernten
+- [ ] 45 Minuten Repetition: REST-Konzepte, HTTP-Methoden, Authentication und alles vom letzten Mal zusammenfassen
+- [ ] Go installieren und erste Schritte: Syntax, Module und HTTP-Paket kennenlernen
+- [ ] Eine vollständige REST-API in Go bauen: dieselben Endpunkte wie in Python/Node.js umsetzen
+- [ ] Go-API mit Python/Node.js vergleichen: Performance, Code-Lesbarkeit und Developer Experience bewerten
 
 
 ## Lernperiode Reflexion
