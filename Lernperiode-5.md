@@ -64,11 +64,19 @@ Alles würde Erflüllt vieles lehrreiches wurde gelernt und alle Ziele bestnden.
 
 ### Planung 11.09.2026
 
-- [ ] 45 Minuten Repetition: REST-Konzepte, HTTP-Methoden, Authentication und alles vom letzten Mal zusammenfassen
-- [ ] Go installieren und erste Schritte: Syntax, Module und HTTP-Paket kennenlernen
-- [ ] Eine vollständige REST-API in Go bauen: dieselben Endpunkte wie in Python/Node.js umsetzen
-- [ ] Go-API mit Python/Node.js vergleichen: Performance, Code-Lesbarkeit und Developer Experience bewerten
+- [x] 45 Minuten Repetition: REST-Konzepte, HTTP-Methoden, Authentication und alles vom letzten Mal zusammenfassen
+- [x] Go installieren und erste Schritte: Syntax, Module und HTTP-Paket kennenlernen
+- [x] Eine vollständige REST-API in Go bauen: dieselben Endpunkte wie in Python/Node.js umsetzen
+- [x] Go-API mit Python/Node.js vergleichen: Performance, Code-Lesbarkeit und Developer Experience bewerten
 
+Heute musste ich den Ablauf etwas umstrukturieren, da ich anfangs kein WLAN hatte und deshalb nicht sofort mit Go starten konnte. Die Repetitionsphase habe ich genutzt um Notizen durchzugehen und Konzepte schriftlich zusammenzufassen. Später konnte ich Go einrichten und habe mit dem Standard `net/http` Paket eine erste REST-API gebaut. Der Vergleich mit Python ist interessant: Go ist deutlich expliziter und erfordert mehr Code, läuft dafür aber sehr schnell und ohne Runtime. Nächstes Mal möchte ich das Go-Framework `Gin` ausprobieren, die API um Datenbankanbindung erweitern und einen direkten Performance-Vergleich mit FastAPI durchführen.
+
+### Planung 18.09.2026
+
+- [ ] Go API mit Gin Framework neu aufsetzen und mit dem Standard net/http Ansatz vergleichen
+- [ ] Datenbankanbindung in Go implementieren: SQLite oder PostgreSQL mit GORM einbinden
+- [ ] Performance-Vergleich: Go (Gin) vs Python (FastAPI) mit einfachen Lasttests messen
+- [ ] Erkenntnisse dokumentieren: welche Sprache für welchen Anwendungsfall besser geeignet ist
 
 ## Lernperiode Reflexion
 
