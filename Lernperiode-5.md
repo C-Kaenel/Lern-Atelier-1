@@ -73,10 +73,19 @@ Heute musste ich den Ablauf etwas umstrukturieren, da ich anfangs kein WLAN hatt
 
 ### Planung 18.09.2026
 
-- [ ] Go API mit Gin Framework neu aufsetzen und mit dem Standard net/http Ansatz vergleichen
-- [ ] Datenbankanbindung in Go implementieren: SQLite oder PostgreSQL mit GORM einbinden
-- [ ] Performance-Vergleich: Go (Gin) vs Python (FastAPI) mit einfachen Lasttests messen
-- [ ] Erkenntnisse dokumentieren: welche Sprache für welchen Anwendungsfall besser geeignet ist
+- [x] Go API mit Gin Framework neu aufsetzen und mit dem Standard net/http Ansatz vergleichen
+- [x] Datenbankanbindung in Go implementieren: SQLite oder PostgreSQL mit GORM einbinden
+- [x] Performance-Vergleich: Go (Gin) vs Python (FastAPI) mit einfachen Lasttests messen
+- [x] Erkenntnisse dokumentieren: welche Sprache für welchen Anwendungsfall besser geeignet ist
+
+Heute habe ich Gin mit dem Standard net/http Ansatz verglichen. Gin ist deutlich angenehmer zu verwenden, die Routing-Syntax ist sauber und Middleware lässt sich einfach einbinden. Die Datenbankanbindung mit GORM funktioniert gut, braucht aber etwas Einarbeitung. Der Performance-Vergleich zeigt Go klar vor FastAPI bei hoher Last, für kleinere Projekte ist der Unterschied aber kaum spürbar.
+
+### Planung 25.09.2026
+
+- [ ] Lernperiode abschliessen: alle Projekte dokumentieren und auf GitHub pushen
+- [ ] Go und Python APIs zu einem kleinen System zusammenführen: beide über eine gemeinsame Schnittstelle ansprechen
+- [ ] Reflexion der gesamten Lernperiode schreiben: was gelernt, was überraschend war, was als nächstes kommt
+- [ ] Ausblick planen: welche API-Themen oder Sprachen in der nächsten Lernperiode vertieft werden
 
 ## Lernperiode Reflexion
 
