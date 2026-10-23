@@ -38,6 +38,8 @@ In dieser Lernperiode setze ich mich mit folgenden Schwerpunkten auseinander:
 - [x] Code Quality Einstieg: ESLint oder Ruff in einem bestehenden Projekt einrichten und erste Findings beheben
 - [x] Git-Workflow definieren: Branching-Strategie (Feature Branches, main/dev) und Commit-Konventionen festlegen
 
+Heute habe ich die Lernperiode strukturiert gestartet. Die Recherche zu agentischem Engineering hat mir klargemacht, dass der entscheidende Unterschied zu klassischer Automation in der autonomen Entscheidungsfindung liegt. Der erste Agenten-Entwurf steht auf dem Papier. Ruff ist im bestehenden Python-Projekt eingerichtet und die ersten Findings sind behoben. Der Git-Workflow ist definiert und dokumentiert.
+
 ## Lernperiode Reflexion
 
 (Wird am Ende der Lernperiode ausgefüllt.)
