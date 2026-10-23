@@ -29,14 +29,14 @@ In dieser Lernperiode setze ich mich mit folgenden Schwerpunkten auseinander:
 - Einen professionellen Team-Workflow aufsetzen: Branching-Strategie, CI/CD, Code-Review-Prozess
 - Technische Dokumentation und Kommunikation auf einem Niveau üben, das in einem professionellen Umfeld bestehen würde
 
-## Tagesplanungen
+## Feinplanung
 
 ### Planung 23.10.2026
 
-- [ ] Agentisches Engineering: Grundkonzepte recherchieren, Unterschied zu klassischer Automation verstehen
-- [ ] Ersten eigenen Agenten skizzieren: Aufgabe, Werkzeuge, Entscheidungslogik und Abbruchbedingungen definieren
-- [ ] Code Quality Einstieg: ESLint oder Ruff in einem bestehenden Projekt einrichten und erste Findings beheben
-- [ ] Git-Workflow definieren: Branching-Strategie (Feature Branches, main/dev) und Commit-Konventionen festlegen
+- [x] Agentisches Engineering: Grundkonzepte recherchieren, Unterschied zu klassischer Automation verstehen
+- [x] Ersten eigenen Agenten skizzieren: Aufgabe, Werkzeuge, Entscheidungslogik und Abbruchbedingungen definieren
+- [x] Code Quality Einstieg: ESLint oder Ruff in einem bestehenden Projekt einrichten und erste Findings beheben
+- [x] Git-Workflow definieren: Branching-Strategie (Feature Branches, main/dev) und Commit-Konventionen festlegen
 
 ## Lernperiode Reflexion
 
