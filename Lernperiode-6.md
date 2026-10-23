@@ -29,7 +29,7 @@ In dieser Lernperiode setze ich mich mit folgenden Schwerpunkten auseinander:
 - Einen professionellen Team-Workflow aufsetzen: Branching-Strategie, CI/CD, Code-Review-Prozess
 - Technische Dokumentation und Kommunikation auf einem Niveau üben, das in einem professionellen Umfeld bestehen würde
 
-## Feinplanung
+## Tagesplanung
 
 ### Planung 23.10.2026
 
