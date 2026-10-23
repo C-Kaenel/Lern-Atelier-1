@@ -82,11 +82,11 @@ Heute habe ich Gin mit dem Standard net/http Ansatz verglichen. Gin ist deutlich
 
 ### Planung 25.09.2026
 
-- [ ] Lernperiode abschliessen: alle Projekte dokumentieren und auf GitHub pushen
-- [ ] Go und Python APIs zu einem kleinen System zusammenführen: beide über eine gemeinsame Schnittstelle ansprechen
-- [ ] Reflexion der gesamten Lernperiode schreiben: was gelernt, was überraschend war, was als nächstes kommt
-- [ ] Ausblick planen: welche API-Themen oder Sprachen in der nächsten Lernperiode vertieft werden
+- [x] Lernperiode abschliessen: alle Projekte dokumentieren und auf GitHub pushen
+- [x] Go und Python APIs zu einem kleinen System zusammenführen: beide über eine gemeinsame Schnittstelle ansprechen
+- [x] Reflexion der gesamten Lernperiode schreiben: was gelernt, was überraschend war, was als nächstes kommt
+- [x] Ausblick planen: welche API-Themen oder Sprachen in der nächsten Lernperiode vertieft werden
 
 ## Lernperiode Reflexion
 
-(Wird am Ende der Lernperiode ausgefüllt.)
+In dieser Lernperiode habe ich einen grossen Schritt in Richtung praxisorientierter Backend-Entwicklung gemacht. Der Einstieg in REST-APIs mit Python und FastAPI war schnell und produktiv, die automatische Swagger-Dokumentation hat mir von Anfang an geholfen, sauber zu arbeiten. Der Wechsel zu Go war eine bewusste Herausforderung: die Sprache ist expliziter, erfordert mehr Disziplin, belohnt das aber mit hervorragender Performance und klarer Struktur. Das Gin-Framework hat sich dabei als deutlich angenehmer erwiesen als das Standard-Paket. Die Datenbankanbindung mit GORM und der direkte Performance-Vergleich zwischen Go und Python haben mir ein realistisches Bild davon gegeben, wann welche Technologie sinnvoll ist. Was ich besonders mitnehme: Verschiedene Sprachen für dasselbe Problem einzusetzen schärft das Verständnis für Konzepte, weil man zwingt wird, zwischen Implementierung und Idee zu unterscheiden.
