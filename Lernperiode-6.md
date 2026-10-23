@@ -40,6 +40,13 @@ In dieser Lernperiode setze ich mich mit folgenden Schwerpunkten auseinander:
 
 Heute habe ich die Lernperiode strukturiert gestartet. Die Recherche zu agentischem Engineering hat mir klargemacht, dass der entscheidende Unterschied zu klassischer Automation in der autonomen Entscheidungsfindung liegt. Der erste Agenten-Entwurf steht auf dem Papier. Ruff ist im bestehenden Python-Projekt eingerichtet und die ersten Findings sind behoben. Der Git-Workflow ist definiert und dokumentiert.
 
+### Planung 30.10.2026
+
+- [ ] Agenten aus letzter Woche implementieren: ersten funktionierenden Prototyp in Python oder TypeScript bauen
+- [ ] Code Review Prozess einrichten: Pull Request Template, Review-Checkliste und Merge-Regeln definieren
+- [ ] Profiling: ein bestehendes Projekt mit cProfile oder py-spy analysieren und Bottlenecks identifizieren
+- [ ] CI/CD Pipeline aufsetzen: GitHub Actions Workflow für automatische Tests und Linting konfigurieren
+
 ## Lernperiode Reflexion
 
 (Wird am Ende der Lernperiode ausgefüllt.)
