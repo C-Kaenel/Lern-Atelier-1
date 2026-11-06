@@ -51,10 +51,21 @@ Sehr Gut
 
 ### Planung 06.11.2026
 
-- [ ] Agenten erweitern: Werkzeugnutzung und Fehlerbehandlung robuster gestalten
-- [ ] Code Review durchführen: ein eigenes Projekt vollständig reviewen und Findings beheben
-- [ ] CI/CD Pipeline testen und verfeinern: Edge Cases abdecken und Pipeline-Laufzeit optimieren
-- [ ] Team Workflow dokumentieren: README, Contributing Guide und technische Entscheidungen festhalten
+- [x] Agenten erweitern: Werkzeugnutzung und Fehlerbehandlung robuster gestalten
+- [x] Code Review durchführen: ein eigenes Projekt vollständig reviewen und Findings beheben
+- [x] CI/CD Pipeline testen und verfeinern: Edge Cases abdecken und Pipeline-Laufzeit optimieren
+- [x] Team Workflow dokumentieren: README, Contributing Guide und technische Entscheidungen festhalten
+
+War sehr gut 
+
+### Planung 20.11.2026
+
+- [ ] Agenten finalisieren: vollständigen End-to-End-Test durchführen und Ergebnisse dokumentieren
+- [ ] Refactoring-Session: ein bestehendes Projekt nach Clean-Code-Prinzipien überarbeiten und Verbesserungen messen
+- [ ] Multi-Person Workflow simulieren: Feature Branch erstellen, Pull Request öffnen und Self-Review durchführen
+- [ ] Technische Dokumentation schreiben: Architecture Decision Record (ADR) für ein eigenes Projekt verfassen
+
+
 ## Lernperiode Reflexion
 
 (Wird am Ende der Lernperiode ausgefüllt.)
